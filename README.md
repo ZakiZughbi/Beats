@@ -12,3 +12,6 @@ Features
 
     🌈 Colorful Interface:
     Enjoy a visually appealing design with vibrant buttons.
+
+![_Volumes_GoogleDrive_My%20Drive_Programming_Websites_Beats_vanilla-js-beatmaker_index html](https://github.com/ZakiZughbi/Beats/assets/39328307/74d8e9aa-b558-4529-9b7c-c515c8ebda7b)
+
